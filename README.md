@@ -78,7 +78,7 @@ To better understand model performance across all classes, a **Confusion Matrix*
 Below is the confusion matrix visualization showing the model’s predictions versus the true labels:
 
 
-[ CONV.png ]
+![Confusion Matrix](CONV.png)
 
 
 The confusion matrix shows strong diagonal dominance, indicating that most samples were classified correctly.  
